@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = ["cargo-epsilon","epsilonui", "examples/counter"]
+
+[workspace.metadata]
+workspace_name = "epsilon-dev"

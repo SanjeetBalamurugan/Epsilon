@@ -1,0 +1,5 @@
+[alias]
+epsilon           = "run --package cargo-epsilon --features dev --"
+
+[env]
+EPSILON_ROOT = { value = ".", relative = true }
